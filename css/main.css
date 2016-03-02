@@ -3,12 +3,18 @@ html {
 }
 
 body {
-  font-family: "Georgia", sans-serif;
+  font-family: 'Lato', sans-serif;
+  display: inline-block;
 }
 h2 {
   text-align: left;
   font-size: 1rem;
   font-weight: bold;
+  padding-top: 1rem;
+}
+
+p {
+  margin: 1em;
 }
 *, *::before, *::after {
 	box-sizing: inherit;
